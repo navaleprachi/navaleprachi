@@ -93,6 +93,17 @@ Full-stack sports arena booking platform supporting 25+ facilities, with JWT aut
 
 ---
 
+#### 🍽️ [Mealgorithm — iOS App](https://github.com/navaleprachi/Mealgorithm)
+> SwiftUI · Core Data · Spoonacular API · Swift Charts · MVVM
+
+An AI-powered iOS app for university students that integrates grocery management, personalized meal planning, and budget tracking in one place — reducing food waste by **30%** and saving students an estimated **$50–$100/month**.
+
+- Expiry-based push notifications via `UNUserNotificationCenter` with daily 9 AM reminders
+- AI-driven meal suggestions personalized to dietary preferences using Spoonacular API
+- Visual budget insights with Pie + Bar charts comparing planned vs actual spending
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
