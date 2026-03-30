@@ -109,7 +109,7 @@ An AI-powered iOS app for university students that integrates grocery management
 <p align="center">
   <img src="https://github-readme-stats-navaleprachi.vercel.app/api?username=navaleprachi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-navaleprachi.vercel.app/api/top-langs/?username=navaleprachi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-navaleprachi.vercel.app/api/top-langs/?username=navaleprachi&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook,tsql" alt="Top Languages" height="160"/>
 </p>
 
 ---
