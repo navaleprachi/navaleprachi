@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://prachinavale-portfolio.netlify.app/" target="_blank">
+  <a href="https://prachinavale-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
@@ -124,5 +124,5 @@ An AI-powered iOS app for university students that integrates grocery management
 
 <p align="center">
   <i>Let's connect and build something great together!</i><br/>
-  <a href="https://www.linkedin.com/in/prachi-navale/">LinkedIn</a> · <a href="https://prachinavale-portfolio.netlify.app/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/prachi-navale/">LinkedIn</a> · <a href="https://prachinavale-portfolio.vercel.app/">Portfolio</a>
 </p>
